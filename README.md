@@ -1,4 +1,4 @@
-**Implementation of CI/CD Pipeline:**
+##**Implementation of CI/CD Pipeline:**
 A CI/CD CICD (Continuous Integration/Continuous Deployment) pipeline is a set of automated processes and tools used in software development to ensure that changes made to the codebase are systematically built, tested, and deployed.
 
 In this project application, Spring Boot is used to develop back-end and Thymeleaf as template Engine is used to develop the front end.
